@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace OnionApp.Domain.Core
 {
-    public class Class1
+    public class Section
     {
+        public int Id { get; set; }
+        public string SectionDescription { get; set; }
     }
 }

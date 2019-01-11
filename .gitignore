@@ -62,3 +62,7 @@ OnionApp/OnionApp.Services.Interfaces/obj/Debug/TemporaryGeneratedFile_5937a670-
 OnionApp/OnionApp.Services.Interfaces/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
 OnionApp/OnionApp.Services.Interfaces/obj/Debug/OnionApp.Services.Interfaces.csproj.CoreCompileInputs.cache
 OnionApp/OnionApp.Services.Interfaces/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+OnionApp/OnionApp.Services.Interfaces/obj/Debug/OnionApp.Services.Interfaces.csprojAssemblyReference.cache
+OnionApp/OnionApp.Infrastructure.Data/obj/Debug/OnionApp.Infrastructure.Data.csprojAssemblyReference.cache
+OnionApp/OnionApp.Domain.Interfaces/obj/Debug/build.force
+OnionApp/OnionApp.Domain.Interfaces/obj/Debug/OnionApp.Domain.Interfaces.csprojAssemblyReference.cache
